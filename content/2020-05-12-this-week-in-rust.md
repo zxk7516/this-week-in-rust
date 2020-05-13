@@ -40,7 +40,6 @@ If you find any errors in this week's issue, [please submit a PR](https://github
 * [Writing A Wayland Compositor In Rust](https://wiki.alopex.li/WritingAWaylandCompositorInRust)
 * [Yak shaving conditional compilation in Rust](https://bitshifter.github.io/2020/05/07/conditional-compilation-in-rust/)
 * [Oxidize Global Workshop and CfP announcement](https://ferrous-systems.com/blog/oxidize-global-workshop-and-cfp-announcement/)
-* [Collecting many errors from an iterator of Results](https://tarquin-the-brave.github.io/blog/posts/collecting-all-the-errors/).
 * [Writing Python inside your Rust code - Part 3](https://blog.m-ou.se/writing-python-inside-rust-3/)
 * [Rust FFI - Building an ASN1 codec](https://sjames.github.io/articles/2020-04-26-rust-ffi-asn1-codec/)
 * [video] [Building a simple GraphQL API with Actix and Juniper](https://youtu.be/7v7ERnrC4fo)
@@ -127,7 +126,7 @@ decision. Express your opinions now.
 
 * [disposition: merge] [Stablilize saturating_abs and saturating_neg](https://github.com/rust-lang/rust/pull/71886)
 * [disposition: merge] [Tweak and stabilize AtomicN::fetch_update](https://github.com/rust-lang/rust/pull/71843)
-* [disposition: merge] [impl From<Cow> for Box, Rc, and Arc](https://github.com/rust-lang/rust/pull/71447)
+* [disposition: merge] [impl From \<Cow\> for Box, Rc, and Arc](https://github.com/rust-lang/rust/pull/71447)
 * [disposition: merge] [Stabilize fn-like proc macros in expression, pattern and statement positions](https://github.com/rust-lang/rust/pull/68717)
 * [disposition: merge] [Tracking issue for Weak::into_raw/from_raw & similar](https://github.com/rust-lang/rust/issues/60728)
 * [disposition: clone] [Tracking issue for non_static_type_id](https://github.com/rust-lang/rust/issues/41875)
